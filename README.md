@@ -1,0 +1,2 @@
+# b14e8c449ccb0835-digital-marketing-project-time
+The digital marketing tool you'd build yourself — if you had the time.  Rate limiting, authentication, and error handling built in from the start. SDKs and quickstart guides for Python, JavaScript, PHP, and cURL.  ## What's Included  - Digital Marketing Project Timeline And Milestone — fully configured and ready to use - RESTful JSON API with OpenA
